@@ -1,48 +1,63 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-   <meta charset="utf-8">
-   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover">
-   <meta name="description" content="">
-   <title></title>
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, minimum-scale=1.0, shrink-to-fit=no, viewport-fit=cover"
+    />
+    <meta name="description" content="" />
+    <title></title>
 
-<link 
-  rel="stylesheet"
-  href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
-  title="docsify-darklight-theme"
-  type="text/css"
-/>
+    <link
+      rel="stylesheet"
+      href="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/style.min.css"
+      title="docsify-darklight-theme"
+      type="text/css"
+    />
 
-   <!-- Custom Styles -->
-   <style>
-     :root {
-       /* theme-hue: 325; */
-     }
-   </style>
-</head>
-<body>
-   <div id="app"></div>
+    <!-- Custom Styles -->
+    <style>
+      :root {
+        .markdown-section table td::before {
+          content: none !important;
+          display: none !important;
+        }
 
-   <script>
-     // Docsify Configuration
-     window.$docsify = {
-      loadSidebar: true,
-      name: 'Tenho uma Dica',
-      repo: 'https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01-_G3_TenhoUmaDica_Entrega_01'
-    };
-   </script>
+        .markdown-section table td,
+        .markdown-section table th {
+          display: table-cell !important;
+        }
 
-   <!-- Required -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+        .markdown-section table {
+          display: table !important;
+          width: 100% !important;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div id="app"></div>
 
-   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+    <script>
+      // Docsify Configuration
+      window.$docsify = {
+        loadSidebar: true,
+        name: "Tenho uma Dica",
+        repo: "https://github.com/UnBArqDsw2026-1-Turma01/2026.1-T01-_G3_TenhoUmaDica_Entrega_01",
+        subMaxLevel: 2
+      };
+    </script>
 
-   <!-- Recommended -->
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
-   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+    <!-- Required -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
-   
-</body>
+    <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+
+    <!-- Recommended -->
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/zoom-image.min.js"></script>
+  </body>
 </html>
