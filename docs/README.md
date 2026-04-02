@@ -24,6 +24,8 @@ O foco central é a troca direta entre veteranos e calouros: enquanto os estudan
 
 ## Screenshots da Primeira Entrega
 
+<font size="3"><p style="text-align: center">Tabela 1: Integrantes</p></font>
+
 ## Integrantes
 
 | Matrícula  | Aluno                                              |
@@ -41,7 +43,7 @@ O foco central é a troca direta entre veteranos e calouros: enquanto os estudan
 
 ## Histórico de versões
 
-<font size="3"><p style="text-align: center">Tabela 1: Histórico de versões</p></font>
+<font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
 | Versão | Descrição            | Autor                                              | Data       | Revisor |
 | ------ | -------------------- | -------------------------------------------------- | ---------- | ------- |
