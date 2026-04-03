@@ -28,25 +28,26 @@ O foco central é a troca direta entre veteranos e calouros: enquanto os estudan
 
 ## Integrantes
 
-| Matrícula  | Aluno                                              |
-| ---------- | -------------------------------------------------- |
-| xx/xxxxxx  | Angélica                                           |
-| xx/xxxxxx  | Brenda                                             |
-| xx/xxxxxx  | Diogo                                              |
-| 21/1062867 | [Felipe Rodrigues](https://github.com/felipeJRdev) |
-| xx/xxxxxx  | Gabriel Augusto                                    |
-| xx/xxxxxx  | Gabriel Maciel                                     |
-| xx/xxxxxx  | João Gabriel                                       |
-| xx/xxxxxx  | João Reis                                          |
-| xx/xxxxxx  | Marcos                                             |
-| xx/xxxxxx  | Renan                                              |
+| Matrícula  | Aluno                                                  |
+| ---------- | ------------------------------------------------------ |
+| 22/1031256 | [Angélica](https://github.com/angelicaccampos)         |
+| 23/1011963 | [Brenda](https://github.com/Brwnds)                    |
+| 23/1011266 | [Diogo](https://github.com/Diogo-Olivv)                |
+| 21/1062867 | [Felipe Rodrigues](https://github.com/felipeJRdev)     |
+| 22/1022533 | [Gabriel Augusto](https://github.com/gabrielaugusto23) |
+| 22/1022560 | [Gabriel Maciel](https://github.com/GabrielMacielBR)   |
+| 22/1022005 | [João Gabriel](https://github.com/JoaoComTil)          |
+| 21/1061930 | [João Reis](https://github.com/Joaolramos)             |
+| 21/1062698 | [Marcos](https://github.com/marcoslbz)                 |
+| 22/1022435 | [Renan](https://github.com/rsribeiro1)                 |
 
 ## Histórico de versões
 
 <font size="3"><p style="text-align: center">Tabela 2: Histórico de versões</p></font>
 
-| Versão | Descrição            | Autor                                              | Data       | Revisor |
-| ------ | -------------------- | -------------------------------------------------- | ---------- | ------- |
-| 1.0    | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 02/04/2026 |         |
+| Versão | Descrição            | Autor                                              | Data       |
+| ------ | -------------------- | -------------------------------------------------- | ---------- |
+| 1.0    | Criação do documento | [Felipe Rodrigues](https://github.com/felipeJRdev) | 02/04/2026 |
+| 1.1    | Adiciona matrículas  | [Felipe Rodrigues](https://github.com/felipeJRdev) | 03/04/2026 |
 
 <font size="2"><p style="text-align: center"> Fonte:[Felipe Rodrigues](https://github.com/felipeJRdev), 2026.</p></font>
