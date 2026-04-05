@@ -1,31 +1,69 @@
-# RepositorioTemplate
+# TenhoUmaDica
 
-Repositório que deve ser utilizado como template inicial pelos grupos da matéria de Arquitetura e Desenho de Software.
+![License](https://img.shields.io/github/license/unb-mds/2025-1-NoFluxoUNB)
+![Issues](https://img.shields.io/github/issues/unb-mds/2025-1-NoFluxoUNB)
+![Contributors](https://img.shields.io/github/contributors/unb-mds/2025-1-NoFluxoUNB)
+![Stars](https://img.shields.io/github/stars/unb-mds/2025-1-NoFluxoUNB?style=social)
+![Views](https://komarev.com/ghpvc/?username=unb-mds&label=views&color=green)
+![Forks](https://img.shields.io/github/forks/unb-mds/2025-1-NoFluxoUNB?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/unb-mds/2025-1-NoFluxoUNB)
 
 ## Introdução
 
-Este repositório traz um template de repo de documentação a ser seguido pelos grupos de arquitetura e desenho de software.
+O **TenhoUmaDica** é uma plataforma voltada para estudantes universitários, com o objetivo de centralizar materiais acadêmicos, avaliações de disciplinas e professores, além de promover a colaboração entre alunos.
 
-## Tecnologia
+A proposta surge da necessidade de resolver problemas como:
 
-A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
+- Falta de centralização de conteúdos  
+- Dificuldade de acesso a materiais de disciplinas  
+- Ausência de avaliações transparentes sobre matérias e docentes  
+- Baixa integração entre alunos  
 
-```shell
-"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
-```
+---
 
-### Instalando o docsify
+## Funcionalidades Principais
 
-Execute o comando:
+-  Compartilhamento de materiais acadêmicos  
+-  Sistema de avaliação (upvote/downvote)  
+-  Dicas de estudo (bizus)  
+-  Comentários e discussões  
+-  Sistema de reputação  
+-  Organização por disciplinas, categorias e tags  
+-  Favoritos  
 
-```shell
-npm i docsify-cli -g
-```
+## Equipe
 
-### Executando localmente
+| Nome              | Contribuições |
+|-------------------|--------------|
+| Angélica          | Estimativas, Glossário |
+| Brenda            | Estimativas, Prototipação |
+| Diogo Oliveira    | 5W2H, Diagrama de Ishikawa, Glossário |
+| Felipe Rodrigues  | Brainstorm, Rich Picture, Diagrama de Causa e Efeito |
+| Gabriel Augusto   | Prototipação |
+| Gabriel Maciel    | Rich Picture, Prototipação |
+| João Gabriel      | Estimativas, Glossário |
+| João Reis         | Estimativas, 5W2H |
+| Marcos            | Storyboard, Glossário |
+| Renan             | Prototipação |
 
-Para iniciar o site localmente, utilize o comando:
+---
+## Documentação
 
-```shell
-docsify serve ./docs
-```
+Acesse a documentação completa do projeto:
+
+🔗 https://unbarqdsw2026-1-turma01.github.io/2026.1-T01-_G3_TenhoUmaDica_Entrega_01/
+
+---
+
+## Referências
+
+- Design Sprint – Google Ventures  
+https://www.gv.com/sprint/
+
+---
+
+## 🕓 Histórico de Versões
+
+| Versão | Descrição | Autor | Data |
+|--------|----------|------|------|
+| 1.0 | xxxxxx | xxxxxxxxx | 02/04/2026 |
